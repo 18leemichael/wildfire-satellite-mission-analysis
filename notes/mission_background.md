@@ -29,6 +29,13 @@
 - LEO, polar orbit, sunsynchronous
 - 375m-per-pixel resolution
 
+### CubeSats
+
+- LEO
+- High temporal and spatial resolution
+- Effective when used in constellations
+- Potential limitation in amount of data they're able to transmit
+
 ## Things I learned
 
 - Most wildfire monitoring uses thermal infrared.
