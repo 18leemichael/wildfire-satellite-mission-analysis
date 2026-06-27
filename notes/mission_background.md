@@ -34,7 +34,7 @@
 - Most wildfire monitoring uses thermal infrared.
 - LEO satellites provide higher resolution.
 - Revisit time is a major limitation.
-- One satellite is probably insufficient.
+- One SSO satellite is probably insufficient.
 - LEO has better spatial resolution with longer revisit time.
 - LEO has infrequent coverage so a constellation would be needed to balance that.
 - Better spatial resolution is important to the MODIS and VIIRS mission designs even though they can't continuously monitor the same location as GOES can in GEO.
