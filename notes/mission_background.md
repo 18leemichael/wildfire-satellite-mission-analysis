@@ -22,8 +22,10 @@
 - Sunsynchronous
 - Offers view of Earth's surface every 1-2 days
 - 3 resolution bands
+- Precursor to VIIRS
 
 ### VIIRS
+
 - LEO, polar orbit, sunsynchronous
 - 375m-per-pixel resolution
 
@@ -36,4 +38,4 @@
 - LEO has better spatial resolution with longer revisit time.
 - LEO has infrequent coverage so a constellation would be needed to balance that.
 - Better spatial resolution is important to the MODIS and VIIRS mission designs even though they can't continuously monitor the same location as GOES can in GEO.
-- GOES is often used by firefighters to spot first embers of wildfires
+- GOES is often used by firefighters to spot first embers of wildfires.
