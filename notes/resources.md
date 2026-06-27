@@ -27,7 +27,7 @@ Useful Information:
 - GOES helps forecasters detect and characterize fires
 - VIIRS provides smaller, lower-temp fire detections day and night, used in LEO orbits
 
-## Comparing terrestrial, UAV, and satellite methods of wildfire monitoring
+## Comparing methods of wildfire monitoring
 
 Website:
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7697165/
