@@ -39,3 +39,9 @@
 - LEO has infrequent coverage so a constellation would be needed to balance that.
 - Better spatial resolution is important to the MODIS and VIIRS mission designs even though they can't continuously monitor the same location as GOES can in GEO.
 - GOES is often used by firefighters to spot first embers of wildfires.
+
+## Early Insights
+
+- GEO satellites provide high temporal coverage, meaning frequent updates of the same region.
+- LEO/SSO satellites provide higher spatial resolution but lower revisit frequency.
+- Zero revisit time may be prioritezed for wildfire monitoring missions
