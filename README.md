@@ -1,4 +1,4 @@
-# wildfire-satellite-mission-analysis
+# Wildfire Satellite Mission Analysis
 
 ## Overview
 
