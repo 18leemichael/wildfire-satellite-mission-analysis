@@ -51,4 +51,4 @@
 
 - GEO satellites provide high temporal coverage, meaning frequent updates of the same region.
 - LEO/SSO satellites provide higher spatial resolution but lower revisit frequency.
-- Zero revisit time may be prioritezed for wildfire monitoring missions
+- Low revisit time may be prioritezed for wildfire monitoring missions
